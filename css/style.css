@@ -1,0 +1,156 @@
+body { margin:0; padding:0; font-size:12px; }
+label {display: block;}
+h2 {font-size: 5vh;}
+
+/*CUSTOM NAV BAR STUFF*/
+.navbar {margin: 0;}
+
+
+#cover {
+    /*background: url("to/your/ajaxloader.gif") no-repeat scroll center center #FFF;*/
+    background-color: #fff;
+    opacity: .7;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: 100;
+    text-align: center;
+    padding-top: 40vh;
+}
+
+#title-info {
+    position: absolute;
+    margin-right: 175px;
+    left: 20px;
+    top: 0px;
+    z-index: 10;
+    color: #052945;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    opacity: .8;
+}
+
+#map {
+    background-color: #A2A9C2; /*A3B1E1*/
+    height: 85vh;
+}
+
+.side-bar {
+    max-height: 100vh;
+    overflow-y: scroll
+}
+
+#plant-info {
+    padding: 15px;
+}
+
+.dataInfo {
+    position: absolute; z-index: 30; top: 82vh; left: 10px;
+    opacity: .8;
+}
+
+#resetBt {
+    position: absolute;
+    right: 52px;
+    top: 29px;
+    z-index: 10;
+}
+#checkbox {
+    /*background-color: #fff;
+    border-radius: 8px;*/
+    padding: 5px 10px 10px 10px;
+    width: 145px;
+    z-index: 100000
+}
+#checkbox label {
+    font-weight: normal;
+    margin: 0px;
+}
+#checkbox h5 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.label {
+    font-size: 16px;
+    float: left;
+    color: white;
+}
+
+.sp {
+    margin-left: 5px;
+}
+
+
+.leaflet-left {opacity: 0;}
+
+
+.logo {
+    position: absolute;
+    right: 2vw;
+    bottom: 2vh;
+    width: 15vw;
+    z-index: 25;
+}
+
+#plant-list {
+    max-height: 300px;
+    overflow: scroll;
+}
+#resize {
+    text-align: center;
+    margin: 7px;
+    background-color: transparent;
+    border: none;
+}
+#resize button {
+    background-color: transparent;
+    border: none;
+}
+#resize a:hover {text-decoration: none;}
+
+#LblTxt {}
+
+
+.resetMap {
+    padding: 3px;
+    border-radius: 4px;
+}
+
+.port {color: #052945; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;}
+.operating {color: #5D943F}
+.proposed {color: #E3D648}
+
+.cityLabel-lg {
+    font-size: 13px;
+    color: #052945;
+    opacity: .6;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.cityLabel-sm {
+    font-size: 11px;
+    color: #052945;
+    opacity: .5;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+.sizeFilter {overflow-x: scroll; max-width: 150px;}
+
+.droplist {
+    padding: 3px 5px 3px 5px;
+    border-bottom: 1px solid #E5E5E5;
+}
+.droplist:hover {
+    background-color: #C4C4C4;
+}
+.hovertip {
+    border-color: white;
+    /*background-color: white;*/
+    z-index: 100; 
+}
+.leaflet-container {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    line-height: 5px;
+}
+
+

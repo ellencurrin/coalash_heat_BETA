@@ -1,0 +1,511 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.650256,
+                    30.708917
+                ]
+            },
+            "properties": {
+                "objectid": 1491,
+                "name": "Mobile",
+                "place_key": "0109750000",
+                "capital": "N",
+                "population": 202581,
+                "pclass": "5",
+                "abbrev": null,
+                "cartodb_id": 1,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.816068,
+                    33.518885
+                ]
+            },
+            "properties": {
+                "objectid": 2212,
+                "name": "Birmingham",
+                "place_key": "0107307000",
+                "capital": "N",
+                "population": 257761,
+                "pclass": "5",
+                "abbrev": "BHM",
+                "cartodb_id": 2,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.600139,
+                    34.740378
+                ]
+            },
+            "properties": {
+                "objectid": 2687,
+                "name": "Huntsville",
+                "place_key": "0108937000",
+                "capital": "N",
+                "population": 170200,
+                "pclass": "5",
+                "abbrev": null,
+                "cartodb_id": 3,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.299602,
+                    32.375409
+                ]
+            },
+            "properties": {
+                "objectid": 3642,
+                "name": "Montgomery",
+                "place_key": "0110151000",
+                "capital": "Y",
+                "population": 196363,
+                "pclass": "5",
+                "abbrev": null,
+                "cartodb_id": 4,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.023977,
+                    38.892057
+                ]
+            },
+            "properties": {
+                "objectid": 15169,
+                "name": "Washington",
+                "place_key": "1100150000",
+                "capital": "*",
+                "population": 543213,
+                "pclass": "7",
+                "abbrev": "DC",
+                "cartodb_id": 5,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.376527,
+                    33.95655
+                ]
+            },
+            "properties": {
+                "objectid": 19133,
+                "name": "Athens",
+                "place_key": "1305903432",
+                "capital": "N",
+                "population": 100266,
+                "pclass": "5",
+                "abbrev": null,
+                "cartodb_id": 6,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.389623,
+                    33.754504
+                ]
+            },
+            "properties": {
+                "objectid": 19431,
+                "name": "Atlanta",
+                "place_key": "1312104000",
+                "capital": "Y",
+                "population": 367285,
+                "pclass": "7",
+                "abbrev": "ATL",
+                "cartodb_id": 7,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.649206,
+                    32.841454
+                ]
+            },
+            "properties": {
+                "objectid": 19596,
+                "name": "Macon",
+                "place_key": "1302149000",
+                "capital": "N",
+                "population": 112900,
+                "pclass": "5",
+                "abbrev": null,
+                "cartodb_id": 8,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.096518,
+                    32.082327
+                ]
+            },
+            "properties": {
+                "objectid": 20555,
+                "name": "Savannah",
+                "place_key": "1305169000",
+                "capital": "N",
+                "population": 136262,
+                "pclass": "5",
+                "abbrev": null,
+                "cartodb_id": 9,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.845841,
+                    35.231402
+                ]
+            },
+            "properties": {
+                "objectid": 53697,
+                "name": "Charlotte",
+                "place_key": "3711912000",
+                "capital": "N",
+                "population": 441297,
+                "pclass": "7",
+                "abbrev": null,
+                "cartodb_id": 11,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.643386,
+                    35.779735
+                ]
+            },
+            "properties": {
+                "objectid": 54369,
+                "name": "Raleigh",
+                "place_key": "3718355000",
+                "capital": "Y",
+                "population": 243835,
+                "pclass": "5",
+                "abbrev": null,
+                "cartodb_id": 13,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.94129,
+                    32.793043
+                ]
+            },
+            "properties": {
+                "objectid": 89332,
+                "name": "Charleston",
+                "place_key": "4501913330",
+                "capital": "N",
+                "population": 71052,
+                "pclass": "4",
+                "abbrev": "CS",
+                "cartodb_id": 14,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.035287,
+                    34.000669
+                ]
+            },
+            "properties": {
+                "objectid": 89351,
+                "name": "Columbia",
+                "place_key": "4507916000",
+                "capital": "Y",
+                "population": 112773,
+                "pclass": "5",
+                "abbrev": null,
+                "cartodb_id": 15,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.391285,
+                    34.855137
+                ]
+            },
+            "properties": {
+                "objectid": 89469,
+                "name": "Greenville",
+                "place_key": "4504530850",
+                "capital": "N",
+                "population": 57064,
+                "pclass": "4",
+                "abbrev": null,
+                "cartodb_id": 16,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.05235,
+                    35.142852
+                ]
+            },
+            "properties": {
+                "objectid": 93469,
+                "name": "Memphis",
+                "place_key": "4715748000",
+                "capital": "N",
+                "population": 596725,
+                "pclass": "7",
+                "abbrev": null,
+                "cartodb_id": 17,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.782056,
+                    36.158887
+                ]
+            },
+            "properties": {
+                "objectid": 94491,
+                "name": "Nashville",
+                "place_key": "4703752000",
+                "capital": "Y",
+                "population": 511263,
+                "pclass": "7",
+                "abbrev": "NV",
+                "cartodb_id": 18,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.924377,
+                    35.966572
+                ]
+            },
+            "properties": {
+                "objectid": 94824,
+                "name": "Knoxville",
+                "place_key": "4709340000",
+                "capital": "N",
+                "population": 167535,
+                "pclass": "5",
+                "abbrev": null,
+                "cartodb_id": 19,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.978706,
+                    36.85922
+                ]
+            },
+            "properties": {
+                "objectid": 103014,
+                "name": "Virginia Beach",
+                "place_key": "5181082000",
+                "capital": "N",
+                "population": 430385,
+                "pclass": "7",
+                "abbrev": null,
+                "cartodb_id": 22,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433878,
+                    37.540815
+                ]
+            },
+            "properties": {
+                "objectid": 103420,
+                "name": "Richmond",
+                "place_key": "5176067000",
+                "capital": "Y",
+                "population": 198267,
+                "pclass": "5",
+                "abbrev": "RA",
+                "cartodb_id": 23,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.657929,
+                    30.326221
+                ]
+            },
+            "properties": {
+                "objectid": 16786,
+                "name": "Jacksonville",
+                "place_key": "1203135000",
+                "capital": "N",
+                "population": 750000,
+                "pclass": "7",
+                "abbrev": null,
+                "cartodb_id": 24,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.177952,
+                    32.312208
+                ]
+            },
+            "properties": {
+                "objectid": 0,
+                "name": "Jackson",
+                "place_key": null,
+                "capital": null,
+                "population": 0,
+                "pclass": null,
+                "abbrev": null,
+                "cartodb_id": 25,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.451143,
+                    27.98146
+                ]
+            },
+            "properties": {
+                "objectid": 0,
+                "name": "Tampa",
+                "place_key": null,
+                "capital": null,
+                "population": 0,
+                "pclass": null,
+                "abbrev": null,
+                "cartodb_id": 26,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.3550,
+                    31.2139
+                ]
+            },
+            "properties": {
+                "objectid": 0,
+                "name": "Waycross",
+                "place_key": null,
+                "capital": null,
+                "population": 0,
+                "pclass": null,
+                "abbrev": null,
+                "cartodb_id": 26,
+                "created_at": "2015-02-25T17:41:51Z",
+                "updated_at": "2015-02-25T17:41:51Z"
+            }
+        }
+    ]
+}
